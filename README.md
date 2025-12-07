@@ -20,11 +20,16 @@
 ## dicas
 * arrays-e-slices [https://larien.gitbook.io/aprenda-go-com-testes/primeiros-passos-com-go/arrays-e-slices ]
 * pointers [https://larien.gitbook.io/aprenda-go-com-testes/primeiros-passos-com-go/ponteiros-e-erros]
+* https://larien.gitbook.io/aprenda-go-com-testes/primeiros-passos-com-go/injecao-de-dependencia
+* Shuffle https://pkg.go.dev/math/rand#Shuffle
+
 
 ## exercims
 - [x] https://exercism.org/tracks/go/exercises/need-for-speed
 - [x] https://exercism.org/tracks/go/exercises/card-tricks
-- [ ] https://exercism.org/tracks/go/exercises/animal-magic
+- [x] https://exercism.org/tracks/go/exercises/animal-magic
+- [ ] https://exercism.org/tracks/go/exercises/lasagna-master
+- [ ] https://exercism.org/tracks/go/exercises/interest-is-interesting
  
 
 ## referencias
