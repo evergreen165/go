@@ -24,13 +24,6 @@
 * Shuffle https://pkg.go.dev/math/rand#Shuffle
 
 
-## exercims
-- [x] https://exercism.org/tracks/go/exercises/need-for-speed
-- [x] https://exercism.org/tracks/go/exercises/card-tricks
-- [x] https://exercism.org/tracks/go/exercises/animal-magic
-- [ ] https://exercism.org/tracks/go/exercises/lasagna-master
-- [ ] https://exercism.org/tracks/go/exercises/interest-is-interesting
- 
 
 ## referencias
 -  https://larien.gitbook.io/aprenda-go-com-testes
