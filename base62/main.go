@@ -6,6 +6,7 @@ import (
 	"github.com/deatil/go-encoding/base62"
 )
 
+//  go get github.com/deatil/go-encoding/base62
 // base62  0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
 
 func main() {
