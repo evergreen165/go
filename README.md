@@ -9,7 +9,16 @@
 - [x] arrays e slices
 - [x] estrutura, métodos e interfaces
 - [x] ponteiros e erros
-- [ ] maps
+- [x] maps
+- [ ] injeção de dependencia
+- [ ] mocks
+- [ ] concorrência
+- [ ] select
+- [ ] reflexão
+- [ ] sync
+- [ ] context
+- [ ] 
+
 
 ## comandos
 * go test # rodar os testes
